@@ -1,4 +1,4 @@
-## Electronic Terms
+### Electronic Terms
 |Term|Units|Unit Abbreviation|Symbol|Meaning|
 |---|---|---|---|---|
 |Voltage|Volts|V|`E`|ElectroMotive Force (EMF)|
@@ -7,7 +7,7 @@
 |Power|Watts|W|`P`|Energy/unit time - Joules/sec 1 W = 1 Joule/sec|
 |Frequency|Hertz|Hz|`f`|Cycles/sec 1 Hz = 1 cycle/sec|
 
-## Scientific Prefixes
+### Scientific Prefixes
 |Prefix Name|Symbol|Multiplier|Prefix Name|Symbol|Multiplier|
 |---|---|---|---|---|---|
 |milli|`m`|10^-3|kilo|`k`|10^3|
@@ -17,7 +17,7 @@
 |femto|`f`ifteen|10^-15|Peta|`P`|10^15|
 |atto|`a`|10^-18|Exa|`E`ighteen|10^18|
 
-## Resistor Color Code
+### Resistor Color Code
 |Color|Value (1st and 2nd stripes)|Multiplier (3rd stripe)|Tolerance Color|Tolerance (%)|
 |---|---|---|---|---|
 |Black|0|10^0|Gold|±5|
