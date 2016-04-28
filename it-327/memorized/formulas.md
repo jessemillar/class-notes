@@ -11,10 +11,7 @@ P = IE
 ```
 
 ### Ohm/Power Combinations
-```
-P=(I^2)R  
-P=(E^2)/R
-```
+![Formula Combinations](formula-combinations.png)
 
 ### Resistor Calculations
 ```
