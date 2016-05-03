@@ -1,7 +1,7 @@
 ### Variables
 ```
 I = Current (amps)
-E = Voltage (volts
+E = Voltage (volts)
 R = Resistance (Ω)
 ```
 
@@ -45,4 +45,8 @@ Conversion to polar:
 
 Magnitude: z = sqrt(x^2 + y^2)
 Angle (direction): theta = arctan(y/x)
+```
+
+```
+XL = 2(pi)fL
 ```
