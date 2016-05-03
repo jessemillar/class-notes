@@ -47,6 +47,15 @@ Magnitude: z = sqrt(x^2 + y^2)
 Angle (direction): theta = arctan(y/x)
 ```
 
+### Faraday's Law of Elecromagnetic Induction
+```
+Φ = magnetic flux
+t = time
+N = number of turns (coils of wire)
+
+EMF = -NdΦ/dt
+```
+
 ### Miscellaneous
 ```
 Inductance (inductive reactance): XL = 2(pi)fL
