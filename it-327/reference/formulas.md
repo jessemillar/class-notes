@@ -47,6 +47,8 @@ Magnitude: z = sqrt(x^2 + y^2)
 Angle (direction): theta = arctan(y/x)
 ```
 
+### Miscellaneous
 ```
-XL = 2(pi)fL
+Inductance (inductive reactance): XL = 2(pi)fL
+Capacitance (capacitive inductive reactance): XC = 1/(2(pi)fC)
 ```
