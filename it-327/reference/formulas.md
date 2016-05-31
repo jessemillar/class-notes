@@ -61,7 +61,8 @@ EMF = -NdΦ/dt
 capacity=bandwidth*log base 2(1+S/N)
 ```
 
-You **CANNOT** use `dB` in Shannon's law
+You **CANNOT** use `dB` in Shannon's law  
+Convert `dB` to proper units using `10log base 10(dB)`
 
 ### Miscellaneous
 ```
