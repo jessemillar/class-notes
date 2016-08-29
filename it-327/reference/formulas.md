@@ -56,6 +56,14 @@ N = number of turns (coils of wire)
 EMF = -NdΦ/dt
 ```
 
+### Shannon's Law
+```
+capacity=bandwidth*log base 2(1+S/N)
+```
+
+You **CANNOT** use `dB` in Shannon's law  
+Convert `dB` to proper units using `10log base 10(dB)`
+
 ### Miscellaneous
 ```
 Inductance (inductive reactance): XL = 2(pi)fL
