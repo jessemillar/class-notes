@@ -2,6 +2,8 @@
 
 ### Definitions
 - `arete` A Greek word including the concepts of glory, excellence, and virtue
+- `phalanx` A Greek battle formation
+- `hoplites` A heavily-armored Greek soldier with a shield and a very long spear
 
 ### General Notes
 - The thing that pulled Greece out of the dark ages was the invention of the Greek alphabet
@@ -24,6 +26,10 @@
 	- Discovered the golden ratio
 	- Determined that music is based on mathematics
 - Anaximander proposed that fire was the fundamental element
+- Heraclitus said that the fundamental concept underlying everything was change
+- Xeno had a dilemma regarding the fact that you always have to move halfway toward a wall before you can get there
+- Democritus invented the atom (a particle that cannot be subdivided any further) in order to solve Xeno's dilemma
+	- Plato and Aristotle very much disagreed with this concept
 
 ### Homer
 - A blind poet
@@ -41,3 +47,17 @@
 - Two focuses
 	- Interaction between Achilles, the greatest of the Greek warriors, and the other Greeks
 	- Interactions between Greek and Trojan heroes
+
+### Democracy
+- Started because of Draco who posted all rules that were then deemed harsh by the people
+- Solon was the ruler after Draco and is considered the "Father of Democracy"
+	- Invented the jury system
+	- Established a strong currency system
+
+### Persian Wars
+- Persia began to attack Greek cities
+- Darius (Persian) fought against the Greeks at the Battle of Marathon in 490 B.C. but lost
+	- Greeks circled the Persians
+- Ten years later, Darius' son, Xerxes returned with a larger army
+	- Defeated the Spartans and sacked Athens
+- A year later, the Greeks defeated and beat out the Persians largely thanks to the phalanx formation
