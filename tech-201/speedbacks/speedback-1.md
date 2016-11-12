@@ -1,5 +1,5 @@
 1. Which of the following definitions best describes Taoism?
-That by yielding we overcome force; that submission will maintain the balance of nature.
+- That by yielding we overcome force; that submission will maintain the balance of nature.
 
 2. According to Confucius in Analects what two things are rarely signs of goodness?
 A clever tongue and fine appearance.
