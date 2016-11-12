@@ -1,12 +1,8 @@
-1. Which of the following definitions best describes Taoism?
-- That by yielding we overcome force; that submission will maintain the balance of nature.
+1. "That by yielding we overcome force; that submission will maintain the balance of nature" is a definition that describes Taoism
+1. According to Confucius in Analects, a clever tongue and fine appearance are rarely signs of goodness?
+> See section 1.3 of Analects.  
 
-2. According to Confucius in Analects what two things are rarely signs of goodness?
-A clever tongue and fine appearance.
-> See section 1.3 of Analects.
-
-3. Which of the periods of Egyptian history was the time of greatest creativity and progress in ancient Egypt?
-Old Kingdom.
+3. The Old Kingdom period of Egyptian history was the time of greatest creativity and progress in ancient Egypt
 > See chapter 3, pages 35-40. All periods of the history of ancient Egypt looked back to the Old Kingdom as the golden age of Egypt and tried to recapture the glory of the Old Kingdom more than progress through change. This led to creative stagnation to various degrees in the later periods of Egyptian history.
 
 4.	When the Aryans conquered the Dravidians living in the Indus River Valley, they forced all of the following changes on the Aryan people and society except which of the following?
