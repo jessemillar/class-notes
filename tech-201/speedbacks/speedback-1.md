@@ -28,7 +28,7 @@
   - The terracotta warriors of Xian were built
   - The Great Wall of China was improved and completed
   - The entire region of China was united under one ruler for the first time
-The concepts of Confucianism and Taoism were adopted in an official capacity by the Chinese government.
+  
 > See chapter 4, pages 49-51. Lao-Tzu and Confucius both lived and taught during the Zhou dynasty and their concepts were officially adopted as policy by the Chinese government during the Han dynasty.
 
 1. The four essential elements that are required for "civilization" are:
@@ -36,4 +36,5 @@ The concepts of Confucianism and Taoism were adopted in an official capacity by 
   - A writing system
   - Labor specialization
   - Food in abundance (agriculture)
+  
 > See chapter 1, page 3
