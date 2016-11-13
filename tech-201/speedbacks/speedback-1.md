@@ -11,7 +11,7 @@
   - The Aryan language of Sanskrit became the language of the people
   - The Aryans introduced the caste system as a means of enforcing a social hierarchy that allowed them to more easily control the conquered Dravidians
 
-> See chapter 4, pages 42-45
+  > See chapter 4, pages 42-45
 
 1. Freeing the servant is the punishment given in Exodus for a person who accidentally causes their servant or maid to lose an eye
 > See Exodus chapter 21, verse 26
@@ -30,7 +30,7 @@
   - The Great Wall of China was improved and completed
   - The entire region of China was united under one ruler for the first time
   
-> See chapter 4, pages 49-51. Lao-Tzu and Confucius both lived and taught during the Zhou dynasty and their concepts were officially adopted as policy by the Chinese government during the Han dynasty.
+  > See chapter 4, pages 49-51. Lao-Tzu and Confucius both lived and taught during the Zhou dynasty and their concepts were officially adopted as policy by the Chinese government during the Han dynasty.
 
 1. The four essential elements that are required for "civilization" are:
   - Order and societal organization
@@ -38,4 +38,4 @@
   - Labor specialization
   - Food in abundance (agriculture)
   
-> See chapter 1, page 3
+  > See chapter 1, page 3
