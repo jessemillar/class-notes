@@ -10,6 +10,7 @@
   - The Aryans moved the Dravidian culture from largely an urban, city dwelling population to a mostly rural, village based population
   - The Aryan language of Sanskrit became the language of the people
   - The Aryans introduced the caste system as a means of enforcing a social hierarchy that allowed them to more easily control the conquered Dravidians
+
 > See chapter 4, pages 42-45
 
 1. Freeing the servant is the punishment given in Exodus for a person who accidentally causes their servant or maid to lose an eye
