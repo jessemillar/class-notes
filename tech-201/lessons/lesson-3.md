@@ -57,6 +57,7 @@
 - Similar to the Mosaic Law
 	- Mosaic Law was given by God where the Hammurabi Code was man-created
 - Established a trial system where the accuser was punished if the accusation couldn't be proved
+- Differing punishment levels for differing social classes
 
 ## Hittites
 - Came into power around 1650 B.C.
