@@ -10,6 +10,12 @@
 1. Stoics
 1. Christians
 
+## Descent of Ethical Systems from Aristotle
+1. Aristotle
+1. Peripatetics (Alexandrian Scientists)
+1. Epicureans
+1. Hedonists/Atheists
+
 ### Plato
 - Described the perfect society in his book "The Republic"
 - Rejected sensory information
@@ -52,3 +58,57 @@
 	- Felt strongly that gaining knowledge through the senses and adding emotions were valid interpretation methods
 	- Sought out and promoted emotions
 	- Believed that happiness flowed to those who were right or ethical
+	- Believed excesses in emotion should be avoided
+	- Believed in the atomic theory of Democritus
+		- This belief caused them to not believe in any god or divine will
+	- Cared little for "ultimate truth"
+
+##### Hedonism
+- Sprung out of the Epicurean system
+- Focused on temporary maximizing of pleasure
+
+## Hebrews
+- There is one god
+- The will of god is sometimes hard to know
+- Inability to recognize the gods of their neighbors made them hated outcasts
+- Enslaved by Egyptians around 1600 B.C.
+- Also held captive by the Babylonians (587 B.C.)
+	 - Jews were educated and modernized under Babylonian control
+	 - Were allowed to return to Jerusalem to rebuilt the Jewish temple after the Persians overtook Babylon
+	 	- Most Jews stayed in Mesopotamia
+- Jewish beliefs were slowly being overtaken by the Greek thought
+	- Jewish beliefs saved by Antiochus IV
+		- Forbade the worship of Jehovah
+		- This served as a wake up call to the Jews
+		- The courage of a priest named Mattathias refusing to abide by Antiochus' law spurred the Jews to rebel
+		- The rebellion continued after the death of Mattathias and into the reign of his son Judas Maccabeus
+		- The revolt climaxed in 165 B.C. when the Maccabees captured Jerusalem and cleansed the Temple
+			- Commemorated by the burning of a menorah for eight days at Hanukkah
+- After gaining independence, the Jews were still divided
+	- Conquered by the Romans while the Jews were bickering
+	- The scattering of the Jews by the Romans is called the Diaspora
+- Jews took up trades that required special training or were forbidden for Christians (like banking)
+
+### Sadducees
+- Believed that the survival of the Jewish people depended on bowing to the Greeks
+
+### Pharisees
+- Resisted all changes to the Jewish religion
+- Believed that adoption of foreign cultures would corrupt Jewish culture and religion
+
+## Herod
+- A Jew granted power by the Romans
+- Ordered the purge of males under the age of two when Christ was born
+
+## Cultural Differences
+|Cultural Characteristic|Western|Eastern|
+|---|---|---|
+|Methods of learning|Experience and reason|Rote learning|
+|View of the nature of facts|Facts are absolute|Facts can be transitory and subject to Divine Will|
+|Typical writing types|Aristotle's well-reasoned works|Isaiah's poetical and image-filled exhortations|
+|politics|Freedom of the individual is paramount and should be guaranteed by society|Individuals are secondary to the state; individual freedom can exist even when the state is not democratic|
+|Family|Open and not structured|Patriarchal|
+|Loyalty|To the state or society|To the leader|
+|Religion|Tends to be cerebral|Tends to be emotional and mystical|
+|View of man|Man is the ultimate being and is lord of the earth by right of reason|Man is a subject of God and should seek to do His will|
+|Cultural|The body is the most glorious creation and should be a focus of life through art, exercise, leisure, and pursuit of pleasure|People should be modest and cover their body; no statues or art to depict bodies, only minor efforts to ensure personal comfort|
