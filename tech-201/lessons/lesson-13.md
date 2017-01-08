@@ -62,6 +62,7 @@
 	- Believed in the atomic theory of Democritus
 		- This belief caused them to not believe in any god or divine will
 	- Cared little for "ultimate truth"
+- Atoms are permanent and focused largely on shape
 
 ##### Hedonism
 - Sprung out of the Epicurean system
