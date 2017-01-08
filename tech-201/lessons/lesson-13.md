@@ -112,3 +112,23 @@
 |Religion|Tends to be cerebral|Tends to be emotional and mystical|
 |View of man|Man is the ultimate being and is lord of the earth by right of reason|Man is a subject of God and should seek to do His will|
 |Cultural|The body is the most glorious creation and should be a focus of life through art, exercise, leisure, and pursuit of pleasure|People should be modest and cover their body; no statues or art to depict bodies, only minor efforts to ensure personal comfort|
+
+## What is Ethical?
+||Platonists/Stoics|Aristotelians/Epicureans|Jews|Christians|Buddhists|Confucists/Taoists|
+|---|---|---|---|---|---|---|
+|Happiness|Conform to the plan of divine reason (the Form or Logos)|Happiness is found through pleasure (no pain)|Obedience to God brings happiness|Live according to the laws of Christ|Happiness from achieving Nirvana (enlightenment)|Each person has a role and happiness comes from finding and fulfilling that role|
+|How to live|Use reason and diminish emotions; help others|Live the Golden Mean (avoid extremes)|Keep the law at all costs|Charity and love|Seek the Middle Way; neither excessive self-denial nor excessive self-indulgence|Be like water (patience and acceptance)|
+|Ideas and mind|Accept whatever happens|Science and empirical knowledge are the key to truth|God's law is known by ancient inspiration and tradition (Torah and Talmud)|Judgement will come to all men and only those with righteous actions and/or feelings will be saved|Life will repeat at higher or lower levels depending on how virtuously one lived in this life|Balance Yin and Yang|
+|Living with the world|Government by an elite; live simply|Government not very important; live separately and avoid conflicts|Keep separate as a chosen people|Involvement in community is a way to show love and charity|Focus on individual and inner progress|Avoid force; seek inner peace through the Tao|
+
+## What is Beauty?
+||Greeks|Jews|Christians|
+|Underlying principle|Dimensional perfection; attempt to capture the form of beauty that is within|God's creations are all beautiful|Beauty is found in both God's creations and also in human creations|
+|The human body|The human body is the most perfect creation and should be seen and honored|No graven images; modesty in revealing the human body|All art should lift the spiritual life of mankind; nudity may be uplifting or may be degrading|
+|Additional concepts|All art, especially buildings, should have symmetry and balance|Simplicity is best|Beauty comes from the spirit or goodness that is inside|
+
+## What is Truth?
+||Plato|Aristotle|Jews/Christians|
+|The nature of truth|The Form is true and unchanging|The senses lead to an understanding of the true nature of things|Truth is known to God|
+|How truth is perceived|Reasons|Empiricism|Humans can find truth on their own or by revelation|
+|Human understanding of truth|Humans know truth in their memory of previous lives|Humans understand truth through nature|Conflicts between human knowledge and God's will be resolved in God's favor|
