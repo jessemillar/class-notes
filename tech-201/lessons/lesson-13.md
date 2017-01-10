@@ -124,12 +124,14 @@
 
 ## What is Beauty?
 ||Greeks|Jews|Christians|
+|---|---|---|---|
 |Underlying principle|Dimensional perfection; attempt to capture the form of beauty that is within|God's creations are all beautiful|Beauty is found in both God's creations and also in human creations|
 |The human body|The human body is the most perfect creation and should be seen and honored|No graven images; modesty in revealing the human body|All art should lift the spiritual life of mankind; nudity may be uplifting or may be degrading|
 |Additional concepts|All art, especially buildings, should have symmetry and balance|Simplicity is best|Beauty comes from the spirit or goodness that is inside|
 
 ## What is Truth?
 ||Plato|Aristotle|Jews/Christians|
+|---|---|---|---|
 |The nature of truth|The Form is true and unchanging|The senses lead to an understanding of the true nature of things|Truth is known to God|
 |How truth is perceived|Reasons|Empiricism|Humans can find truth on their own or by revelation|
 |Human understanding of truth|Humans know truth in their memory of previous lives|Humans understand truth through nature|Conflicts between human knowledge and God's will be resolved in God's favor|
