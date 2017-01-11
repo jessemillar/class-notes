@@ -36,6 +36,6 @@
 
 ### Spartans
 - Heavy emphasis on military
-- Young boys ilved in the barracks until they were 20
+- Young boys lived in the barracks until they were 20
 - They were frontline soldiers until 30
 - Sent home to be home guard after that
