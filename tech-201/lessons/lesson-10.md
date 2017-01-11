@@ -33,7 +33,7 @@
 		- What is its essence?
 		- What is its purpose?
 - Felt that all matter is composed of the four elements; earth, fire, water, and air
-	- Believed that everything above the earth was perfect and mate of a fifth material called `quintessence`
+	- Believed that everything above the earth was perfect and made of a fifth material called `quintessence`
 - Assembled 158 constitution, compared them, and picked the best features from each to make his perfect society
 - Analyzed rhetoric:
 	- `Ethos` Persuasion through the speaker's character
