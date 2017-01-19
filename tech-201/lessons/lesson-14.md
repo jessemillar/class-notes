@@ -71,8 +71,11 @@
 - Chief religious official of Rome
 - One year term
 
-### Aeneas
+### The Aeneid
+- Reread the synopsis for the story before taking a test
 - Written by the poet Virgil
+	- Defines Roman values
+- The poem begins just after Troy's destruction
 - Tells the tale of Aeneas (the son of the goddess Venus)
 	- One of the most admired Trojan heroes
 - Aeneas was destined to found a noble people (Romans)
@@ -80,7 +83,10 @@
 - Married Dido, the queen of Carthage
 	- Lives many happy years with Dido before Jupiter becomes angry about Aeneas not fulfilling his destiny
 	- When Aeneas begins to leave, Dido commits suicide
+- A Harpy issues the prophesy that the Trojans will "eat their own tables"
 - According to legend, central Italy was ruled by a series of Latin kings descended from Aeneas and Lavinia (the daughter of an Italian king, King Latinus)
+- Aeneas's primary enemy in Italy is Turnus
+- Aeneas goes to The Underworld after Italy
 
 ### Heroes
 - The Roman Republic was under frequent attack in its infancy because it seemed weak to surrounding tribes
@@ -158,4 +164,16 @@
 - After Caesar's death, Mark Antony and Octavian attempted to rule together
 - Octavian created a new system of government called the Roman Empire that lasted for 500 years
 
-TODO: Read articles 20 and 21
+### Cicero
+- A great orator, lawyer, and government official during the last years of the Roman Republic
+- Adamantly opposed Julius Caesar's attempted self-crowning as the Emperor of Rome
+
+#### The Republic
+- Comparable to Exodus, the Code of Hammurabi, the government of the United States, and the works of Confucius
+- Mentions that subjects in kingships do not get adequate representation
+- Discusses how kingships call for perfect men and perfect men do not exist
+
+#### Laws
+- "True law is right reason in agreement with nature"
+- You cannot fight or repeal laws of nature
+- "Reason, when it is full grown and perfected, is rightly called wisdom"
