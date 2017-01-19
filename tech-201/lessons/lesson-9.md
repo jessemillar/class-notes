@@ -14,7 +14,7 @@
   - Herodotus
     - Retold the Persian wars and gave details of Egypt, the Persian Empire, and Greece
   - Thucydides
-    - Told the final years of the Peoponnesian Wars concentrating on military history
+    - Told the final years of the Peloponnesian Wars concentrating on military history
 
 ## Pericles
 - Pericles ruled Greece from 461 B.C. to 429 B.C.
