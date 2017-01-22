@@ -1,0 +1,38 @@
+## General Notes
+- The gains from exchange and specialization are so large that arrangements emerge to reduce or eliminate any impediments when they arise
+- The `common property problem` is illustrated by the fact that ranchers are more likely to overgraze public land since any grass they leave will probably be consumed by others
+- Ownership gives to a particular individual the right, enforceable by law, to exclude others from using a resource without his or her permission
+- Ownership incentivizes individuals to make decisions both in their immediate and future self interests
+	- Ownership creates incentives to exploit resources less rapidly
+	- Ownership creates incentives to make investments that increase productivity
+- In general, restrictions on future uses lowers the market value of a resource
+	- The greater the uses to which a good might be put, the greater will be its value to its owner and the higher would be the amount that someone would be willing to pay for the good
+- Enforcing ownership is not free and often not cheap
+	- Sometimes the costs of enforcing property rights are so great that people treat the scarce resource as if it were not owned
+- An important element of property rights is the expectation that one can sell a resource to others who may have even higher valued uses for the resource
+- Opportunistic behavior makes exchanging less advantageous and more difficult
+	- E.g. Having someone build a home with promise of payment upon completion and then forcing a price negotiation halfway through construction
+	- Written contracts can help prevent these situations
+- Sometimes threat of damage to reputation is enough to prevent harmful opportunistic behavior in exchanges
+- Bartering is more costly than using money to purchase goods
+- Money can be used as a "unit of account"
+	- This simply means that the value of a good can be expressed in a monetary amount (E.g. $4.99)
+- The Consumer Price Index (CPI) is used to measure inflation and deflation levels
+	- The CPI is set to 1-- in a "specific year called the 'base year.' The index then moves away from 100 depending upon whether money prices, in general, increase or decrease."
+	- Changes to the price index tell us about the current "purchasing power" of money
+- An economy's `aggregate output` or `national income` is referred to as the Gross Domestic Product (GDP)
+- Humans are more productive in specialized teams (firms [companies] capitalize on this)
+	- Humans have the tendency to shirk responsibility
+	- Teams often have management to prevent shirking on the part of the managed employees
+	- Management shirks which requires management for the management and so on
+	- CEOs often have the majority of their salary based on the productivity of their teams/companies as an incentive to not shirk
+		- CEO salaries are often in the hundreds of millions of dollars
+- Firms attempt to prevent suppliers from acting opportunistically through contracts or absorbing suppliers into the firm
+	- GE used to get car bodies from Fisher Auto Body, bought Fisher, and now produces its own bodies in a more predictable, profitable way
+	- This was part of a "vertical merger" thus making GE more "vertically integrated"
+- If a firm can, for example, double its output without doubling its input, it has an "economy of scale"
+- At some point, the costs of internalization and direct control exceed the potential efficiency gains from further integration or expansion which explains why there is generally more than one firm in an industry
+	- The source of these costs are often managerial and organizational
+- The size of firms can also be influenced by public policy
+- An `intermediary` (middleman) is someone who specializes in trading
+	- Intermediaries facilitate transactions and capture some of the potential gains that would otherwise be lost in the process of striking up a deal without a middleman
