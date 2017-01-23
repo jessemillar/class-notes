@@ -1,8 +1,3 @@
-TODO:
-Article 22
-Article 23
-Article 24
-
 ## Octavian
 - Julius Caesar's nephew
 - Formed the most effective and longest lasting political entity the world has ever known (the Roman Empire)
@@ -94,3 +89,113 @@ Article 24
 	- Also called the time of the Five Good Emperors
 - Nerva released political prisoners, restored their property,a nd returned some of the power that the Senate had lost under the Flavians
 	- Done to gain further support of the Senate and unite the empire's various factions
+- Realized that the pattern of succession developed by Augustus was sound so he named Trajan as his successor
+
+## Trajan
+- A successful general on the German front
+- Adopted by Nerva
+- Conquered Dacia (present-day Romania)
+- Had a passive position toward the continuing persecution of the Christians
+	- Suggested to the African governor, Pliny, that Christians should be ignored instead of hunted
+- Named Hadrian as his successor after becoming ill on a military venture
+
+## Hadrian
+- Built a wall across the northern frontier of Britain (Hadrian's Wall) that can still be seen as a separator today
+- Built extensive wooden fortifications along the Rhine and Danube Rivers
+- Named Antoninus Pius as his successor
+
+## Antoninus Pius
+- Gained power in ways similar to Augustus
+- Strong promoter of the arts, sciences, and technologies
+- Named his son-in-law, Marcus Aurelius, as his successor
+
+## Marcus Aurelius
+- The last of the Five Good Emperors
+- Nearly constant warfare along all frontiers of the empire during his rule
+- Better known for his writings than his warfare
+- Succeeded by his son, Commmodus
+
+### Meditations
+- Like a personal diary for Marcus Aurelius
+- Showed Marcus' desire for self-mastery
+- Forgive others on the basis that we all possess imperfections
+- Don't waste life; life is fleeting
+- Maintain purpose in all action
+- Use your inner mind as a retreat
+- Nature has an inherent justice
+
+## Commmodus
+- An extreme egotist
+- Began the decline of the Roman Empire in the view of many experts
+- Dressed as a gladiator according to legend
+- Killed by the army
+- His death was followed by a series of military emperors
+
+## Third Century
+- During the third century of Rome, there were 24 emperors plus 24 additional men who claimed to be emperor
+	- Of these 48 men, 45 were assassinated, 1 died in captivity, 1 died in battle, and 1 died from plague
+- Rome was generally poor during this time
+	- Suffered from inflation
+- The crisis ended when Diocletian was appointed emperor by the army and his chief rival was assassinated
+
+## Diocletian
+- Believed the empire had grown so large that is had to be administered in two sections
+	- The Latin-speaking western part
+	- The Greek-speaking eastern part
+- Diocletian became the "augustus of the east" and named a faithful aide, Maximian, as the augustus of the west
+- Designated second-in-command in each of the halves of the empire called "caesars"
+- The name of this system was Tetrarchy
+	- The name comes from the fact that there were four total leaders
+- Threatened violators of the economic laws with death
+- Imposed a mandate that all individuals within the empire must offer sacrifice or some other public devotion to the gods of the state
+- Began a systematic persecution of the Christians
+	- Killed many in the arenas
+- Retired to his estate in present-day Croatia
+	- He is the only emperor to retire totally on his own volition
+	- Demanded that Maximian also retire
+	- This elevated the two caesars who then appointed their own caesars
+	- One of the new augustii died the next year and threw the whole system into chaos
+- Constantine became the next ruler out of the chaos
+
+## Constantine
+- Friendly toward the Christians
+- Declared that all religions, no matter what their nature, would be respected (called the Edict of Milian)
+- Christian church began to thrive
+- A conference was held in the city of Nicaea (present-day Turkey)
+	- Constantine enforced the council's actions and formed the Imperial Church
+- Built the city of Constantinople as a Christian center
+- After Constantine, all Roman emperors (except Julian the Apostate) were Christians
+
+### Post-Constantine
+- Theodosius I named Christianity the official religion of Rome
+- Most of the emperors during this period were weak
+- Various barbarian tribes entered the empire and threatened the city of Rome
+	- Eventually overcame and destroyed Rome
+- The last western emperor was Romulus Augustus
+- The Roman army had been allowed to shrink
+	The Franks (a group of Germans) attacked and settled in northern Gaul (what is today Holland, Belgium, and northern France)
+- The Germans were being attacked by the Huns and pushed into the Roman borders
+	- The Huns were led by Attila
+	- The Germans fought in large, effective units
+
+## General Notes
+- Rome had a unified law (unlike Greece) which allowed it to succeed for longer
+- Rome allowed conquered peoples to become official Romans
+- Rome had an appealing lifestyle
+	- Technology afforded this standard of living
+
+## Seneca
+- Licius Annaeus Seneca (4 BC - 65 AD)
+- Born in Spain, educated in Rome
+- Became a famous philosopher, orator, and playwright
+- Tutored and advised Emperor Nero
+
+### On Favours
+- Good works should be chosen for their own sake and not for the sake of reward and pleasure 
+- "For if we gave in the hope of getting back, we would give to the wealthiest, not the worthiest"
+
+### Natural Questions
+- "Whenever you withdraw from an association with divine things and turn to human affairs you will be blinded"
+- "What is important? To be able to endure adversity with a cheerful mind."
+- Don't demand so much from yourself
+	- "To be a slave to one's self is the most grievous kind of slavery"
