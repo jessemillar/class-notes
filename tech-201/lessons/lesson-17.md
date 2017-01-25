@@ -54,15 +54,22 @@
 - Eventually converted to Christianity
 	- Originally had issue with the divine characteristics of Christ
 - Made the bishop of Hippo
+- Considered the greatest writer of the Latin-Christian world
 - Wrote *Confessions*
 - His greatest work was *The City of God*
-	- A defense of Christianity
-	- A Christian interpretation of world history
-	- Outline for spiritual refinement
 - Taught that the city of God was not a physical place
 	- Was at the heart and soul of every true Christian
 - Taught about Original Sin
 - Said that any who are not Catholic cannot be saved
+
+### Confessions
+- "I would know myself that I might know Thee"
+- Recounts Augustine's sins, misconceptions during his youth, and conversion experience
+
+### The City of God
+- A defense of Christianity
+- A Christian interpretation of world history
+- Outline for spiritual refinement
 
 ## Peter
 - Was inspired to preach the message of Jesus to all people, not just the Jews
