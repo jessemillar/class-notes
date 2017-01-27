@@ -1,4 +1,20 @@
 ## General Notes
+- Changes in Christianity after Christ's death:
+	1. Geography
+		- Success came mostly outside Palestine
+		- Jerusalem ceased to be the central church (70 A.D.)
+	1. Sociology
+		- From a mostly rural to a mostly urban movement
+	1. Language
+		- From Aramaic (spoken by Christ) to Greek
+	1. Culture
+		- From Jewish to Greco-Roman
+- Problems for the Early Church:
+	1. Persecution from the Jews
+	1. No reference text on which to base Christian teaching
+		- New Testament assembled in 5th Century
+		- Letters of Paul came first then the Gospels
+	1. Disagreements among the leaders of the Church
 - Many creative individuals have expressed their feelings on Christianity
 	- Handel's *Messiah*
 	- Milton's *Paradise Lost*
@@ -35,8 +51,21 @@
 	- Contributed to the eventual split between Christian Churches along the east/west border of the Roman empire 
 - In the sixth century, Pope Gregory I tried to entice pagan's to join the Christian church
 
+## The Second Century
+- Period of no record
+	- Probably because of the Apostasy and wickedness
+- It was shortly after this time that Eusebius wrote his History
+	- Eusebius was the scribe for the Council of Nicene
+	- Talked about a lack of leadership and priesthood
+
+## Progress of Authority in the Early Church
+1. Jesus chose 12 apostles
+1. Apostolic church had elders and deacons
+1. Post-apostolic church added bishops and priests
+
 ## Origen
 - A church father
+	- A church father is someone who made written documents about the church and its doctrine
 - Based his teachings on Greek philosophy
 	- Spread doctrinal error
 - Loved Plato and Pythagoras
@@ -77,3 +106,23 @@
 ## Paul
 - Originally a Jew who was miraculously converted by a vision of the resurrected Jesus while on a trip to Damascus
 - Persecuted the Christians before his conversion
+- His work changed the Church from a Jewish-Christian church to a gentile church
+	- Problems over common meals forced the change
+
+## Gnosticism
+- Secret knowledge only known by few
+	- Associated with creation story
+	- Supported by the Apocryphal works
+	- Two aspects of God (loving vs. harsh)
+	- Matter is the source of all evil
+- Two Gnostic groups
+	1. Intellectuals
+	1. Occult/magic
+- Labeled a cult
+- Influence almost split the church
+
+## Theodosius
+- Emperor
+- Made Nicene Christianity the state religion
+- Made the Catholic church the state church
+- Made heresy against Christianity a state crime
