@@ -8,12 +8,13 @@ Article 28
 - Modern-day Istanbul
 - Means "the city of Constantine"
 	- Considered "the new Rome"
+	- The true capital and commercial center of the Roman Empire
 - The date of Rome's split (286 A.D.) marks the beginning of the Byzantine Empire
 - Constantine was an early emperor of the Byzantine Empire
 	- Strove to divide the empire
 - Selected the Greek trading town of Byzantium as the site he would build his new city to serve as the administrative head of the empire
 	- Sits on a peninsula
-- Constantinople build a complicated system of walls
+- Constantinople built a complicated system of walls
 	- Called the Theodosian walls
 	- Used limestone mortar to withstand small earthquakes which were common to the area
 - Rome was being attacked by the Huns and Romans were fleeing to Constantinople
@@ -46,6 +47,7 @@ Article 28
 			- Octagonal baptistry
 			- Arian
 				- Arians believed in the separation of God, Christ and the Holy Ghost
+				- The type of Christianity followed by the Goths
 		1. San Vitale
 			- Octagonal
 			- Mosaics of Justinian and Theodora
@@ -56,10 +58,20 @@ Article 28
 ### The Justinian Code
 - Lasted for over 500 years
 - Solved conflicts between laws of various conquered peoples
+- Encoded Christian belief into law
 - Simplified 2-3 million lines of laws to 150,000 lines
+- "Justice is the constant and perpetual wish to render every one his due"
+- Divided law into public and private
+- Three types of law:
+	1. Natural Law
+	1. Common Law
+		- Laws common to mankind
+	1. Civil Law
+		- Laws that are unique to the culture at hand
 
 ## Belisarius
 - A great general of Justinian
+- Fought against the Goths
 - Unwillingly became emperor of Italy to end a war
 	- This formed a rift between Belisarius and Justinian that was never healed
 
