@@ -21,6 +21,8 @@
 		- Must not be associated with suicide
 - When Mohammed's name is mentioned, it often is followed by a phrase like "may his name be blessed"
 	- Islams who use Christ's name add a similar phrase
+- The Islam library in Cordoba had over 400,000 volumes when the Benedictine monastery in Switzerland had only 600 at the same time
+- A number of Arabic words begin with "al" such as algebra, almanac, alcohol, and algorithm
 
 ## Civilizations After Roman Empire
 1. Byzantium
@@ -108,6 +110,7 @@
 	- Although the veil seen in Muslim countries is not part of the religion
 - Attacked Mecca, entered the holy shrine, and destroyed the idols there
 	- The destruction of the idols was a "new beginning"
+	- The idols were inside a large, square building called the Ka'ba which is a holy building
 - Died in 632 A.D. two years after taking Mecca
 	- Mohammed said he wanted to be buried simply
 	- The people panicked after the death
@@ -160,6 +163,11 @@
 - Built over a large rock
 	- The rock was, according to Islam, the rock where Abraham almost sacrificed his sun
 	- The same rock where Mohammad's horse ascended into heaven during a vision
+
+### Taj Mahal
+- Built in the sixteenth centurey in the city of Agra, India
+- Was a tomb for a Mughal leader's wife
+- Perfectly symmetrical and balanced
 
 ## Discussion
 - Why aren't Muslims playing a larger part now?
