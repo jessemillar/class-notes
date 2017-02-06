@@ -5,7 +5,7 @@
 	- Calendar from the Egyptians
 - Roman art is so similar to Greek art that it is considered Greek art
 	- Roman artists were praised for how closely they could copy Greek styles
-- Greeks were constantly striving for fundamental truths and Forms which led to instability at time because their goals were so abstract
+- Greeks were constantly striving for fundamental truths and Forms which led to instability at times because their goals were so abstract
 	- Romans strove for more concrete ideals
 - Virgil modeled his epic poem, The Aeneid, on Homer's classics
 	- Aeneas is a more moderate character than Odysseus
