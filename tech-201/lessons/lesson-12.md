@@ -20,7 +20,7 @@
 		- Capital of the Attalid kingdom
 		- Located in present-day Turkey
 		- The chief rival city to Alexandria
-		- Alexandria tried to halt th eprogress of Pergamum by keeping papyrus from Egypt from being sent there
+		- Alexandria tried to halt the progress of Pergamum by keeping papyrus from Egypt from being sent there
 			- Led to the discovery and invention of parchment which led to bookbinding
 
 ### Science
