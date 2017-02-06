@@ -43,7 +43,7 @@
 - Appointed governors of the territories outside Rome
 - Responsible for the army
 - Nominated and directed the consuls
-	- The consuls were the chief executive officers of Rom
+	- The consuls were the chief executive officers of Rome
 	- There were usually two consuls appointed for one-year terms
 	- Consuls had the power of veto
 - Could not make laws
