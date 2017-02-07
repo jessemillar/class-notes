@@ -13,6 +13,11 @@
 - Market demand is the sum of the quantities that demanders individually wish to purchase when each must pay the same market price
 - When market prices increase, commodities are rationed to those willing to pay more, and those willing to pay less leave the market
 - Commodities that go together (CDs and CD players) are complements
-- Commodities that can be interchanged are called substitues
+- Commodities that can be interchanged are called substitutes
 - If the demand for a good increases when individual incomes increase, the good is a "normal commodity"
 - If the demand for a good decreases when individual incomes increase, the good is an "inferior commodity"
+- Adding more people to the population results in more market demand
+- "It is reliance on relative prices as the important element in explaining behavior that characterizes the economic approach to problems"
+- "If A is a normal commodity, the income effect will push in the same direction as the substitution effect of the relative price change"
+	- The income effect is the result of a change in income for yourself or a household
+- See page 90 in the textbook for a useful chart of effects on demand
