@@ -41,7 +41,7 @@ Article 28
 	- Today is a museum
 - Theodora died near the end of Justinian's reign
 	- Weakened Justinian's ruling power
-- Built several churches to honor himself and hise wife
+- Built several churches to honor himself and his wife
 	- Called Ravenna churches
 		1. Sant' Apollinare
 			- Octagonal baptistry
