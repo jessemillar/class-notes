@@ -1,3 +1,7 @@
+## Definitions
+- `Market subsidy` A payment from the government to firms for producing or to comsumers for purchasing a particular commodity
+	- Food stamps are a subsidy provided directly to consumers
+
 ## General Notes
 - Market distortions alter otherwise efficient market outcomes
 - Common causes of market distortions:
@@ -21,3 +25,5 @@
 	- E.g. Firms will offset the amount they pay as a tax onto the consumer
 - "The more inelastic the supply, the more the burden of a tax falls on suppliers"
 	- Vice versa applies too
+- "An excise tax collected from suppliers will increase the market price. An excise tax collected from demanders will decrease the market price."
+- A caution: Taxes imposed on a single market almost always affect many different markets (although we focus only on the effects in a single market)

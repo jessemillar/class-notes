@@ -1,6 +1,12 @@
 ## General Notes
 - Most people think of medieval Europe as the successor to the Roman empire
 	- Sometimes called the Middle Ages or the Dark Ages
+- By the end of the sixth century (after Pepin the Short), roving bands of marauders rode the countrysides attacking travelers and raiding towns
+	- Had a few effects on European society:
+		1. Warfare became almost constant
+		1. Cities became nearly extinct and large towns became rare
+			- This was because trade was disrupted which was necessary for large civilizations
+- In addition to marauders, the Bubonic Plague, or Black Death wreaked havoc
 
 ## Timeline
 |Ancient|Middle Ages|Renaissance|
@@ -58,6 +64,16 @@
 	- Solidified the mass
 	- Created concept of liturgical singing (Gregorian chants)
 
+## Benedictine Rule
+- Benedict studied rhetoric in Rome, fled for his soul, and eventually found the monastic life
+- The Benedictine Rule is a set of rules for living in a monastery
+- Served as the basis for all monastic orders
+	1. Simple clothing
+	1. Simple food
+	1. Manual labor
+	1. Abbots had the authority to flog or invoke other punishments
+	1. Emphasis on learning
+
 ## Great Chain of Being
 - People did not try to move up the chain
 	- Where you were born was where you lived and died
@@ -103,11 +119,13 @@
 	- Merovingian means "red headed" with a fair complexion
 - Converted to Christianity
 	- Accepted Roman-Catholic authority
+- Encouraged intermarriage between the Germanic Franks and the Roman Gauls
 
 ### Charles Martel
 - Master (mayor) of the palace
-- Let a Frankish army into central France to combat an invasion of Muslims
+- Led a Frankish army into central France to combat an invasion of Muslims
 	- Last major invasion into Europe
+	- Given the name Martel as a reward which means "hammer"
 
 ## Carolingian Dynasty
 - Ended thanks to viking invasion
@@ -129,7 +147,7 @@
 	- Established chivalry rules
 		- Knight had stirrups and high-backed saddles
 - Sought special authority from the pope
-	- Crowned an emperor
+	- Crowned Holy Roman Emperor by pope Leo III
 		- Controlled all the Franks, Lombards, and Saxons
 	- This angered the Byzantine Emperor
 		- Made the pope independent of the Byzantine Emperor
