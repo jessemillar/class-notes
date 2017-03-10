@@ -27,6 +27,7 @@
 		- Used to weigh new coins against a standard to see if the new coins were valid
 	- Number system
 		- Fibonacci
+			- Golden ratio
 			- Arabic/indian number system
 
 ## France
