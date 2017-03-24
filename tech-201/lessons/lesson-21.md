@@ -101,7 +101,7 @@
 	- All but the first and third were utter failures
 		- The third crusade was led by Richard
 			- Richard was the greatest knight in England
-			- Europeans were promised that all their sins would be forgivven if they found in "God's army"
+			- Europeans were promised that all their sins would be forgiven if they fought in "God's army"
 - The Crusades resulted in knightly orders:
 	1. Templars
 	1. Hospitaliers
